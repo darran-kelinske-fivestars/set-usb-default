@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<settings>
+    <preference package="fs.instore">
+        <usb-device vendor-id="2049" product-id="25" class="0" subclass="0" protocol="0" manufacturer-name="MagTek" product-name="USB Swipe Reader" serial-number="B48B67B" />
+    </preference>
+</settings>
